@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Reader</string>
+    <string name="create_acct">Please enter a valid email and password.</string>
+    <string name="log_in">Login with your email and password.</string>
+    <string name="sure">Are you sure?</string>
+    <string name="action">This action is not reversible!</string>
+</resources>

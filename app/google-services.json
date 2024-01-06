@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "938115161585",
+    "project_id": "fir-functions-95449",
+    "storage_bucket": "fir-functions-95449.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938115161585:android:4950edbf54ab8663187850",
+        "android_client_info": {
+          "package_name": "com.example.bookreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938115161585-b3h3lbjb84j9pe5er78fb8fp5es5p3dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0NSEQEHZagz3t7b3jadCai9Oy40qG9Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938115161585-b3h3lbjb84j9pe5er78fb8fp5es5p3dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938115161585:android:1cf8d0390387ae2b187850",
+        "android_client_info": {
+          "package_name": "com.fatih.firebasefunctions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938115161585-b3h3lbjb84j9pe5er78fb8fp5es5p3dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0NSEQEHZagz3t7b3jadCai9Oy40qG9Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938115161585-b3h3lbjb84j9pe5er78fb8fp5es5p3dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
